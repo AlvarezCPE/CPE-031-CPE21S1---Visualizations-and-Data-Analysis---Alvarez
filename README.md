@@ -62,10 +62,9 @@ Hello! My name is Joshua Alvarez, and I am a Second-year Computer Engineering st
 - Reading about new technologies
 - Building practical projects
   
-
 ## Description
 
-This repository was created as a requirement for the course **CPE 031 - Visualizations and Data Analysis**. It serves as a collection of course-related materials and activities.
+This repository serves as a collection of coursework for CPE 031 – Visualizations and Data Analysis. It includes laboratory activities, programming exercises, data visualization projects, and other academic requirements completed during the course.
 
 ---
 
