@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/banner.png" alt="CPE 031 Banner" width="100%">
-</p>
+![Uploading ChatGPT Image Jul 11, 2026, 12_50_14 PM.png…]()
+
 
 <p align="left">
   <img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" alt="Joshua Alvarez" width="250">
