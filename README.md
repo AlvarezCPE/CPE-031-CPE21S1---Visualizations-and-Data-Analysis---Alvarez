@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hello! My name is Joshua Alvarez, and I am a first-year Computer Engineering student at the Technological Institute of the Philippines - Quezon City. I enjoy learning about programming, computer systems, and data analysis. I am always eager to improve my technical skills through academic projects and self-learning.
+Hello! My name is Joshua Alvarez, and I am a Second-year Computer Engineering student at the Technological Institute of the Philippines - Quezon City. I enjoy learning about programming,computer hardware and robotics. I am always eager to improve my technical skills through academic projects and self-learning.
 
 ---
 
