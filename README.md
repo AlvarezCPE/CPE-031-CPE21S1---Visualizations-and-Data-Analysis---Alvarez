@@ -1,6 +1,14 @@
 # CPE 031-CPE21S1 - Visualizations and Data Analysis
 
-<img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" align="left" width="220" alt="Joshua Alvarez">
+<table>
+<tr>
+<td width="30%" valign="top">
+
+<img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" width="220" alt="Joshua Alvarez">
+
+</td>
+
+<td width="70%" valign="top">
 
 ## Student Information
 
@@ -13,6 +21,9 @@
 | **School** | Technological Institute of the Philippines - Quezon City |
 | **Academic Year** | 2026 |
 
+</td>
+</tr>
+</table>
 ---
 
 ## About Me
