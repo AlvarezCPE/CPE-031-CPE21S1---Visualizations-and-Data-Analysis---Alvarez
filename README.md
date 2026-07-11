@@ -1,7 +1,7 @@
 # CPE 031-CPE21S1 - Visualizations and Data Analysis
 
 <p align="left">
-  <img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" alt="Joshua Alvarez" width="220">
+  <img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" alt="Joshua Alvarez" width="250">
 </p>
 
 ## Student Information
@@ -9,7 +9,7 @@
 | Information | Details |
 |-------------|---------|
 | **Name** | Joshua Alvarez |
-| **Course** | Bachelor of Science in Computer Engineering |
+| **Course** | Bachelor of Science in Computer Engineering | 
 | **Subject** | CPE 031 - Visualizations and Data Analysis |
 | **Section** | CPE21S1 |
 | **School** | Technological Institute of the Philippines - Quezon City |
