@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Jul 11, 2026, 12_50_14 PM.png…]()
+![CPE 031 Banner](assets/banner.png)
 
 
 <p align="left">
