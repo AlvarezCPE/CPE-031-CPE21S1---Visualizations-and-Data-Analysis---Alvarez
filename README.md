@@ -25,7 +25,6 @@ Hello! My name is Joshua Alvarez, and I am a Second-year Computer Engineering st
 
 ## Hobbies and Interests
 
-- Programming and software development
 - Playing video games
 - Learning about computer hardware
 - Reading about new technologies
