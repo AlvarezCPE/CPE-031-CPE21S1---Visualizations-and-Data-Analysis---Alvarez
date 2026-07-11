@@ -78,3 +78,4 @@ This repository was created as a requirement for the course **CPE 031 - Visualiz
 ## Contact
 
 - **GitHub:** AlvarezCPE
+- alvarezjoshuacaleb@gmail.com
