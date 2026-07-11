@@ -11,6 +11,9 @@
 | **School** | Technological Institute of the Philippines - Quezon City |
 | **Academic Year** | 2026 |
 
+<p align="center">
+  <img src="images/profile.jpg" width="200" alt="Joshua Alvarez">
+</p>
 ---
 
 ## About Me
