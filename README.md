@@ -12,7 +12,7 @@
 | **Academic Year** | 2026 |
 
 <p align="center">
-  <img src="images/profile.jpg" width="200" alt="Joshua Alvarez">
+  <img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" alt="Joshua Alvarez" width="250">
 </p>
 ---
 
