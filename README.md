@@ -2,7 +2,9 @@
 
 # CPE 031-CPE21S1 - Visualizations and Data Analysis
 
-![Joshua Alvarez](e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg)
+<p align="center">
+  <img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" alt="Joshua Alvarez" width="0">
+</p>
 
 ## Student Information
 
