@@ -1,25 +1,26 @@
 # CPE 031-CPE21S1 - Visualizations and Data Analysis
 
+<h2>Student Information</h2>
+
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="220">
 
-<img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" width="220" alt="Joshua Alvarez">
+<img src="e6a7aec5-5a26-408f-93b4-1ce509009fe4.jpg" width="200" alt="Joshua Alvarez">
 
 </td>
 
-<td width="70%" valign="top">
+<td>
 
-## Student Information
-
-| Information | Details |
-|-------------|---------|
-| **Name** | Joshua Alvarez |
-| **Course** | Bachelor of Science in Computer Engineering |
-| **Subject** | CPE 031 - Visualizations and Data Analysis |
-| **Section** | CPE21S1 |
-| **School** | Technological Institute of the Philippines - Quezon City |
-| **Academic Year** | 2026 |
+<table>
+<tr><th>Information</th><th>Details</th></tr>
+<tr><td><b>Name</b></td><td>Joshua Alvarez</td></tr>
+<tr><td><b>Course</b></td><td>Bachelor of Science in Computer Engineering</td></tr>
+<tr><td><b>Subject</b></td><td>CPE 031 - Visualizations and Data Analysis</td></tr>
+<tr><td><b>Section</b></td><td>CPE21S1</td></tr>
+<tr><td><b>School</b></td><td>Technological Institute of the Philippines - Quezon City</td></tr>
+<tr><td><b>Academic Year</b></td><td>2026</td></tr>
+</table>
 
 </td>
 </tr>
